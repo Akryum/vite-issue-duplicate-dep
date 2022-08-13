@@ -1,0 +1,9 @@
+{
+  "name": "vpkg2",
+  "version": "0.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "@histoire/vendors": "^0.10.1"
+  }
+}
